@@ -1,0 +1,16 @@
+[W 14:39:42.530 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 14:39:42.556 NotebookApp] JupyterLab extension loaded from /mnt/mbi/sys/UserApps/anaconda/3/lib/python3.7/site-packages/jupyterlab
+[I 14:39:42.556 NotebookApp] JupyterLab application directory is /mnt/mbi/sys/UserApps/anaconda/3/share/jupyter/lab
+[I 14:39:42.557 NotebookApp] Serving notebooks from local directory: /gpfs0/home/zgqi/jupyterjob
+[I 14:39:42.557 NotebookApp] The Jupyter Notebook is running at:
+[I 14:39:42.557 NotebookApp] http://172.18.152.31:9927/
+[I 14:39:42.557 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:40:13.142 NotebookApp] 302 GET / (172.18.152.62) 1.01ms
+[I 14:40:20.228 NotebookApp] Creating new notebook in 
+[I 14:40:20.271 NotebookApp] Writing notebook-signing key to /gpfs0/home/zgqi/.local/share/jupyter/notebook_secret
+[I 14:40:21.911 NotebookApp] Kernel started: b3cafc1d-743b-496c-bdf8-7f4062deef2d
+[I 14:42:21.854 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:42:38.064 NotebookApp] Starting buffering for b3cafc1d-743b-496c-bdf8-7f4062deef2d:f232728df2c24acb8005268c9688defc
+[C 14:43:01.961 NotebookApp] received signal 15, stopping
+[I 14:43:01.965 NotebookApp] Shutting down 1 kernel
+[I 14:43:02.266 NotebookApp] Kernel shutdown: b3cafc1d-743b-496c-bdf8-7f4062deef2d

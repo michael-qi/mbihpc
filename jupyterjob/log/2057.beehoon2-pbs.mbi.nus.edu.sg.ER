@@ -1,0 +1,10 @@
+[W 14:37:44.980 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 14:37:45.004 NotebookApp] JupyterLab extension loaded from /mnt/mbi/sys/UserApps/anaconda/3/lib/python3.7/site-packages/jupyterlab
+[I 14:37:45.004 NotebookApp] JupyterLab application directory is /mnt/mbi/sys/UserApps/anaconda/3/share/jupyter/lab
+[I 14:37:45.006 NotebookApp] Serving notebooks from local directory: /gpfs0/home/zgqi
+[I 14:37:45.006 NotebookApp] The Jupyter Notebook is running at:
+[I 14:37:45.006 NotebookApp] http://172.18.152.31:8412/
+[I 14:37:45.006 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 14:38:19.490 NotebookApp] 302 GET / (172.18.152.62) 0.99ms
+[I 14:38:35.336 NotebookApp] Shutting down on /api/shutdown request.
+[I 14:38:35.338 NotebookApp] Shutting down 0 kernels
