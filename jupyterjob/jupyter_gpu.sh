@@ -7,7 +7,7 @@
 #PBS -P hpc_common
 
 
-cd ~/jupyterjob
+cd ~/mbihpc/jupyterjob
 module load anaconda/3
 
 XDG_RUNTIME_DIR=""
