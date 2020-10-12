@@ -3,7 +3,7 @@ MPICC=mpiicc
 OBJ=main.o
 
 TARGET=aproc
-$(OBJ)	:
+$(OBJ)	: main.c
 	$(MPICC) -O3 -c -o $(OBJ) main.c
 
 $(TARGET): $(OBJ)
