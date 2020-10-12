@@ -11,4 +11,4 @@
 
 cd ~/mbihpc/mpijob
 module load intel
-mpirun -np 36 ./a.out
+mpirun -np 36 ./aproc
