@@ -1,6 +1,8 @@
 #include <mpi.h>
 #include <stdio.h>
 
+# this is a mpi example
+
 int main(int argc, char** argv) {
     // Initialize the MPI environment
     MPI_Init(NULL, NULL);
