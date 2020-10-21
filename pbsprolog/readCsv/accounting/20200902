@@ -1,0 +1,203 @@
+09/02/2020 02:35:20;Q;14.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:35:20;Q;14.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:35:20;S;14.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014120 qtime=1599014120 etime=1599014120 start=1599014120 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:35:34;E;14.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014120 qtime=1599014120 etime=1599014120 start=1599014120 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=12856 end=1599014134 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4328kb resources_used.ncpus=1 resources_used.vmem=4328kb resources_used.walltime=00:00:11 run_count=1
+09/02/2020 02:44:46;Q;15.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:44:46;Q;15.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:44:47;S;15.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014686 qtime=1599014686 etime=1599014686 start=1599014687 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:44:58;E;15.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014686 qtime=1599014686 etime=1599014686 start=1599014687 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=144723 end=1599014698 Exit_status=127 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4060kb resources_used.ncpus=1 resources_used.vmem=4060kb resources_used.walltime=00:00:11 run_count=1
+09/02/2020 02:46:10;Q;16.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:10;Q;16.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:11;S;16.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014770 qtime=1599014770 etime=1599014770 start=1599014771 exec_host=milo-cn002-pbs/0 exec_vnode=(milo-cn002-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:22;E;16.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014770 qtime=1599014770 etime=1599014770 start=1599014771 exec_host=milo-cn002-pbs/0 exec_vnode=(milo-cn002-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=122025 end=1599014782 Exit_status=127 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4056kb resources_used.ncpus=1 resources_used.vmem=4056kb resources_used.walltime=00:00:10 run_count=1
+09/02/2020 02:46:44;Q;17.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:44;Q;17.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:46;Q;18.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:46;Q;18.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:46;Q;19.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:46;Q;19.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:47;Q;20.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:47;Q;20.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:48;Q;21.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:48;Q;21.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:48;Q;22.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:48;Q;22.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:49;Q;23.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 02:46:49;Q;23.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 02:46:50;S;17.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014804 qtime=1599014804 etime=1599014804 start=1599014810 exec_host=milo-cn003-pbs/0 exec_vnode=(milo-cn003-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:51;S;20.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014807 qtime=1599014807 etime=1599014807 start=1599014811 exec_host=prata-pbs/0 exec_vnode=(prata-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:51;S;21.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014808 qtime=1599014808 etime=1599014808 start=1599014811 exec_host=roti-pbs/0 exec_vnode=(roti-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:51;S;19.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014806 qtime=1599014806 etime=1599014806 start=1599014811 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:51;S;22.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014808 qtime=1599014808 etime=1599014808 start=1599014811 exec_host=snowcone-pbs/0 exec_vnode=(snowcone-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:51;S;23.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014809 qtime=1599014809 etime=1599014809 start=1599014811 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:54;R;20.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014807 qtime=1599014807 etime=1599014807 start=1599014811 exec_host=prata-pbs/0 exec_vnode=(prata-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=0 end=1599014814 Exit_status=-10 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+09/02/2020 02:46:56;S;18.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014806 qtime=1599014806 etime=1599014806 start=1599014816 exec_host=milo-cn004-pbs/0 exec_vnode=(milo-cn004-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:46:57;S;20.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014807 qtime=1599014807 etime=1599014807 start=1599014817 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 resource_assigned.mem=409600kb resource_assigned.ncpus=1 
+09/02/2020 02:47:02;E;21.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014808 qtime=1599014808 etime=1599014808 start=1599014811 exec_host=roti-pbs/0 exec_vnode=(roti-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=12734 end=1599014822 Exit_status=127 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=904kb resources_used.ncpus=1 resources_used.vmem=904kb resources_used.walltime=00:00:10 run_count=1
+09/02/2020 02:47:02;E;22.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014808 qtime=1599014808 etime=1599014808 start=1599014811 exec_host=snowcone-pbs/0 exec_vnode=(snowcone-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=17980 end=1599014822 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4400kb resources_used.ncpus=1 resources_used.vmem=4400kb resources_used.walltime=00:00:11 run_count=1
+09/02/2020 02:47:02;E;19.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014806 qtime=1599014806 etime=1599014806 start=1599014811 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=2031 end=1599014822 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4256kb resources_used.ncpus=1 resources_used.vmem=4256kb resources_used.walltime=00:00:11 run_count=1
+09/02/2020 02:47:03;E;23.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014809 qtime=1599014809 etime=1599014809 start=1599014811 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=19506 end=1599014823 Exit_status=0 resources_used.cpupercent=8 resources_used.cput=00:00:00 resources_used.mem=4312kb resources_used.ncpus=1 resources_used.vmem=4312kb resources_used.walltime=00:00:12 run_count=1
+09/02/2020 02:47:08;E;20.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014807 qtime=1599014807 etime=1599014807 start=1599014817 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=145140 end=1599014828 Exit_status=127 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=4064kb resources_used.ncpus=1 resources_used.vmem=4064kb resources_used.walltime=00:00:10 run_count=2
+09/02/2020 02:47:12;E;17.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014804 qtime=1599014804 etime=1599014804 start=1599014810 exec_host=milo-cn003-pbs/0 exec_vnode=(milo-cn003-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=62813 end=1599014832 Exit_status=127 resources_used.cpupercent=53 resources_used.cput=00:00:03 resources_used.mem=4064kb resources_used.ncpus=1 resources_used.vmem=4064kb resources_used.walltime=00:00:15 run_count=1
+09/02/2020 02:47:19;E;18.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=nvidia_gpu ctime=1599014806 qtime=1599014806 etime=1599014806 start=1599014816 exec_host=milo-cn004-pbs/0 exec_vnode=(milo-cn004-pbs:mem=409600kb:ncpus=1) Resource_List.mem=409600kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=409600kb:ncpus=1:ngpus=1 Resource_List.walltime=24:00:00 session=57674 end=1599014839 Exit_status=127 resources_used.cpupercent=53 resources_used.cput=00:00:03 resources_used.mem=4064kb resources_used.ncpus=1 resources_used.vmem=4064kb resources_used.walltime=00:00:15 run_count=1
+09/02/2020 03:58:03;Q;24.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 03:58:03;Q;24.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 03:58:05;Q;25.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 03:58:05;Q;25.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 03:58:06;Q;26.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 03:58:06;Q;26.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:08:35;Q;27.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:08:35;Q;27.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:11:46;D;24.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:11:54;D;25.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:11:56;D;26.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:11:58;D;27.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:12:11;Q;28.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:12:11;Q;28.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:13:22;D;28.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:13:55;Q;29.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:13:55;Q;29.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:18:53;D;29.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:19:00;Q;30.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:19:00;Q;30.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:19:29;D;30.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:19:51;Q;31.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:19:51;Q;31.beehoon2-pbs.mbi.nus.edu.sg;queue=medium_cpu
+09/02/2020 04:20:42;D;31.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 04:21:39;Q;32.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:21:39;Q;32.beehoon2-pbs.mbi.nus.edu.sg;queue=medium_cpu
+09/02/2020 04:21:40;S;32.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=medium_cpu ctime=1599020499 qtime=1599020499 etime=1599020499 start=1599020500 exec_host=roti-pbs/0*4+roti-pbs/1*4+roti-pbs/2*4+roti-pbs/3*4 exec_vnode=(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0) Resource_List.mem=1600mb Resource_List.ncpus=16 Resource_List.ngpus=0 Resource_List.nodect=4 Resource_List.place=free Resource_List.select=4:mem=400mb:ncpus=4:ngpus=0 Resource_List.walltime=24:00:00 resource_assigned.mem=1638400kb resource_assigned.ncpus=16 resource_assigned.ngpus=0 
+09/02/2020 04:21:50;E;32.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=hello_Word queue=medium_cpu ctime=1599020499 qtime=1599020499 etime=1599020499 start=1599020500 exec_host=roti-pbs/0*4+roti-pbs/1*4+roti-pbs/2*4+roti-pbs/3*4 exec_vnode=(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0)+(roti-pbs:mem=409600kb:ncpus=4:ngpus=0) Resource_List.mem=1600mb Resource_List.ncpus=16 Resource_List.ngpus=0 Resource_List.nodect=4 Resource_List.place=free Resource_List.select=4:mem=400mb:ncpus=4:ngpus=0 Resource_List.walltime=24:00:00 session=21372 end=1599020510 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=3536kb resources_used.ncpus=16 resources_used.vmem=340640kb resources_used.walltime=00:00:10 run_count=1
+09/02/2020 04:22:14;Q;33.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 04:22:14;Q;33.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 04:23:05;D;33.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 05:31:22;Q;34.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 05:31:22;Q;34.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 05:34:29;D;34.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 05:34:40;Q;35.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 05:34:40;Q;35.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 05:37:15;D;35.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 05:37:20;Q;36.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 05:37:20;Q;36.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 05:45:55;Q;37.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 05:45:55;Q;37.beehoon2-pbs.mbi.nus.edu.sg;queue=medium_cpu
+09/02/2020 05:46:23;D;36.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 05:47:08;D;37.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 05:47:34;Q;38.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 05:47:34;Q;38.beehoon2-pbs.mbi.nus.edu.sg;queue=medium_cpu
+09/02/2020 06:03:30;D;38.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 06:15:35;Q;39.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 06:15:45;Q;40.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 06:15:45;Q;40.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 06:16:16;D;40.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 06:16:43;Q;41.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 06:16:43;Q;41.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 06:20:12;D;41.beehoon2-pbs.mbi.nus.edu.sg;requestor=root@beehoon2-pbs.mbi.nus.edu.sg
+09/02/2020 06:25:00;Q;42.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 06:25:00;Q;42.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 06:49:22;S;42.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599027900 qtime=1599027900 etime=1599027900 start=1599029362 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1048576kb:ncpus=1) Resource_List.mem=1gb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1gb:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.mem=1048576kb resource_assigned.ncpus=1 
+09/02/2020 06:50:05;Q;43.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 06:50:05;Q;43.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 06:50:05;S;43.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599029405 qtime=1599029405 etime=1599029405 start=1599029405 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=1048576kb:ncpus=1) Resource_List.mem=1gb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1gb:ncpus=1 Resource_List.walltime=00:30:00 resource_assigned.mem=1048576kb resource_assigned.ncpus=1 
+09/02/2020 06:50:09;E;43.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599029405 qtime=1599029405 etime=1599029405 start=1599029405 exec_host=milo-cn001-pbs/0 exec_vnode=(milo-cn001-pbs:mem=1048576kb:ncpus=1) Resource_List.mem=1gb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1gb:ncpus=1 Resource_List.walltime=00:30:00 session=182492 end=1599029409 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:04 run_count=1
+09/02/2020 06:54:41;E;42.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599027900 qtime=1599027900 etime=1599027900 start=1599029362 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1048576kb:ncpus=1) Resource_List.mem=1gb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1gb:ncpus=1 Resource_List.walltime=00:05:00 session=17952 end=1599029681 Exit_status=265 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=9676kb resources_used.ncpus=1 resources_used.vmem=445996kb resources_used.walltime=00:05:19 run_count=1
+09/02/2020 07:03:06;Q;44.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:03:06;Q;44.beehoon2-pbs.mbi.nus.edu.sg;queue=parallel_cpu
+09/02/2020 07:03:06;S;44.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=HPL_benchmark jobname=hello_Word queue=parallel_cpu ctime=1599030186 qtime=1599030186 etime=1599030186 start=1599030186 exec_host=milo-cn001-pbs/0*128 exec_vnode=(milo-cn001-pbs:ngpus=0:ncpus=128:mem=262144000kb) Resource_List.mem=250gb Resource_List.mpiprocs=128 Resource_List.ncpus=128 Resource_List.ngpus=0 Resource_List.nodect=1 Resource_List.nodes=4 Resource_List.place=free Resource_List.select=1:ngpus=0:ncpus=128:mem=250GB:mpiprocs=128:cpu_arch=amd Resource_List.walltime=24:00:00 resource_assigned.mem=262144000kb resource_assigned.ncpus=128 resource_assigned.ngpus=0 
+09/02/2020 07:12:36;Q;46.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:12:36;Q;46.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:12:36;S;46.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030756 qtime=1599030756 etime=1599030756 start=1599030756 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=1 
+09/02/2020 07:12:42;E;46.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030756 qtime=1599030756 etime=1599030756 start=1599030756 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 session=29808 end=1599030762 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:06 run_count=1
+09/02/2020 07:12:43;Q;47.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:12:43;Q;47.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:12:43;S;47.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030763 qtime=1599030763 etime=1599030763 start=1599030763 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=1 
+09/02/2020 07:12:56;E;47.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030763 qtime=1599030763 etime=1599030763 start=1599030763 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 session=30882 end=1599030776 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=9884kb resources_used.ncpus=1 resources_used.vmem=446060kb resources_used.walltime=00:00:13 run_count=1
+09/02/2020 07:12:57;Q;48.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:12:57;Q;48.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:12:57;S;48.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030777 qtime=1599030777 etime=1599030777 start=1599030777 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=1 
+09/02/2020 07:13:00;E;48.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030777 qtime=1599030777 etime=1599030777 start=1599030777 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=1) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=1 Resource_List.walltime=00:30:00 session=30030 end=1599030780 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:03 run_count=1
+09/02/2020 07:13:04;Q;49.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:13:04;Q;49.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:13:04;S;49.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030784 qtime=1599030784 etime=1599030784 start=1599030784 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=2 
+09/02/2020 07:13:09;E;49.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030784 qtime=1599030784 etime=1599030784 start=1599030784 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 session=30988 end=1599030789 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:05 run_count=1
+09/02/2020 07:13:22;Q;50.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:13:22;Q;50.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:13:22;S;50.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030802 qtime=1599030802 etime=1599030802 start=1599030802 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=2 
+09/02/2020 07:13:24;E;50.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599030802 qtime=1599030802 etime=1599030802 start=1599030802 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 session=30266 end=1599030804 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:02 run_count=1
+09/02/2020 07:22:33;R;44.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=HPL_benchmark jobname=hello_Word queue=parallel_cpu ctime=1599030186 qtime=1599030186 etime=1599030186 start=1599030186 exec_host=milo-cn001-pbs/0*128 exec_vnode=(milo-cn001-pbs:ngpus=0:ncpus=128:mem=262144000kb) Resource_List.mem=250gb Resource_List.mpiprocs=128 Resource_List.ncpus=128 Resource_List.ngpus=0 Resource_List.nodect=1 Resource_List.nodes=4 Resource_List.place=free Resource_List.select=1:ngpus=0:ncpus=128:mem=250GB:mpiprocs=128:cpu_arch=amd Resource_List.walltime=24:00:00 session=184414 end=1599031353 Exit_status=-4 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=128 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+09/02/2020 07:24:26;Q;51.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:24:26;Q;51.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:25:00;D;51.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 07:25:16;Q;52.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:25:16;Q;52.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:35:22;D;52.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 07:35:24;Q;53.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:35:24;Q;53.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:52:36;D;53.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 07:52:38;Q;54.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:52:38;Q;54.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:52:39;S;54.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599033158 qtime=1599033158 etime=1599033158 start=1599033159 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=2 
+09/02/2020 07:53:07;E;54.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599033158 qtime=1599033158 etime=1599033158 start=1599033159 exec_host=popiah-pbs/0 exec_vnode=(popiah-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 session=2806 end=1599033187 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=5496kb resources_used.ncpus=1 resources_used.vmem=5496kb resources_used.walltime=00:00:28 run_count=1
+09/02/2020 07:53:18;Q;55.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:53:18;Q;55.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:53:19;S;55.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599033198 qtime=1599033198 etime=1599033198 start=1599033199 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 resource_assigned.mem=1kb resource_assigned.ncpus=1 resource_assigned.ngpus=2 
+09/02/2020 07:53:32;E;55.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=_pbs_project_default jobname=STDIN queue=nvidia_gpu ctime=1599033198 qtime=1599033198 etime=1599033198 start=1599033199 exec_host=bakkutteh-pbs/0 exec_vnode=(bakkutteh-pbs:mem=1kb:ncpus=1:ngpus=2) Resource_List.mem=1kb Resource_List.ncpus=1 Resource_List.ngpus=2 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:mem=1kb:ncpus=1:ngpus=2 Resource_List.walltime=00:30:00 session=19301 end=1599033212 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=5348kb resources_used.ncpus=1 resources_used.vmem=5348kb resources_used.walltime=00:00:12 run_count=1
+09/02/2020 07:55:53;Q;56.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:55:53;Q;56.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:56:33;D;56.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 07:56:53;Q;57.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 07:56:53;Q;57.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 07:58:53;D;57.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:08:24;Q;58.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:08:24;Q;58.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 08:09:22;D;58.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:10:03;Q;59.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:10:03;Q;59.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 08:10:33;D;59.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:10:39;Q;60.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:10:39;Q;60.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 08:13:06;D;60.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:13:09;Q;61.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:13:09;Q;61.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 08:13:57;D;61.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:13:59;Q;62.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:13:59;Q;62.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 08:18:26;D;62.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 08:58:25;Q;63.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 08:58:25;Q;63.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 09:02:26;D;63.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:02:29;Q;64.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:02:29;Q;64.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/02/2020 09:03:21;D;64.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:03:24;Q;65.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:03:24;Q;65.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:03:44;D;65.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:04:51;Q;66.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:04:51;Q;66.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:05:09;D;66.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:05:56;Q;67.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:05:56;Q;67.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:07:29;D;67.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:07:30;Q;68.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:07:30;Q;68.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:07:49;D;68.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:09:52;Q;69.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:09:52;Q;69.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:11:36;D;69.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:11:40;Q;70.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:11:40;Q;70.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:12:00;D;70.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:12:14;Q;71.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:12:14;Q;71.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:12:38;D;71.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:12:46;Q;72.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:12:46;Q;72.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:13:20;D;72.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:14:28;Q;73.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:14:28;Q;73.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:14:47;D;73.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:14:51;Q;74.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:14:51;Q;74.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu
+09/02/2020 09:15:10;D;74.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/02/2020 09:15:13;Q;75.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/02/2020 09:15:13;Q;75.beehoon2-pbs.mbi.nus.edu.sg;queue=small_cpu

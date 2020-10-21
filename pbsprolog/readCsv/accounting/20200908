@@ -1,0 +1,9 @@
+09/08/2020 08:08:49;Q;245.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/08/2020 08:08:49;Q;245.beehoon2-pbs.mbi.nus.edu.sg;queue=nvidia_gpu
+09/08/2020 08:09:22;D;245.beehoon2-pbs.mbi.nus.edu.sg;requestor=zgqi@milo-pbs.mbi.nus.edu.sg
+09/08/2020 08:09:46;Q;246.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/08/2020 08:10:34;Q;247.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/08/2020 08:10:50;Q;248.beehoon2-pbs.mbi.nus.edu.sg;queue=routeq
+09/08/2020 08:10:50;Q;248.beehoon2-pbs.mbi.nus.edu.sg;queue=long_cpu
+09/08/2020 08:10:51;S;248.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=HPL_benchmark jobname=128Proc queue=long_cpu ctime=1599552650 qtime=1599552650 etime=1599552650 start=1599552651 exec_host=milo-cn001-pbs[1]/0*32 exec_vnode=(milo-cn001-pbs:ngpus=0:ncpus=32:mem=26214400kb) Resource_List.mem=25gb Resource_List.mpiprocs=32 Resource_List.ncpus=32 Resource_List.ngpus=0 Resource_List.nodect=1 Resource_List.nodes=1 Resource_List.place=free Resource_List.select=1:ngpus=0:ncpus=32:mem=25GB:mpiprocs=32:cpu_arch=amd Resource_List.walltime=12:00:00 resource_assigned.mem=26214400kb resource_assigned.ncpus=32 resource_assigned.ngpus=0 
+09/08/2020 20:12:23;E;248.beehoon2-pbs.mbi.nus.edu.sg;user=zgqi group=qubits project=HPL_benchmark jobname=128Proc queue=long_cpu ctime=1599552650 qtime=1599552650 etime=1599552650 start=1599552651 exec_host=milo-cn001-pbs[1]/0*32 exec_vnode=(milo-cn001-pbs:ngpus=0:ncpus=32:mem=26214400kb) Resource_List.mem=25gb Resource_List.mpiprocs=32 Resource_List.ncpus=32 Resource_List.ngpus=0 Resource_List.nodect=1 Resource_List.nodes=1 Resource_List.place=free Resource_List.select=1:ngpus=0:ncpus=32:mem=25GB:mpiprocs=32:cpu_arch=amd Resource_List.walltime=12:00:00 session=182142 end=1599595943 Exit_status=271 resources_used.cpupercent=0 resources_used.cput=00:00:04 resources_used.mem=169632kb resources_used.ncpus=32 resources_used.vmem=169632kb resources_used.walltime=12:01:31 run_count=1

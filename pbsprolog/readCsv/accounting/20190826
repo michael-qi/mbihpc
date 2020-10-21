@@ -1,0 +1,118 @@
+08/26/2019 17:18:08;Q;1229.biryani;queue=routeq
+08/26/2019 17:18:13;Q;1230.biryani;queue=routeq
+08/26/2019 17:18:46;Q;1231.biryani;queue=routeq
+08/26/2019 17:19:14;Q;1232.biryani;queue=routeq
+08/26/2019 17:19:33;Q;1233.biryani;queue=routeq
+08/26/2019 17:19:33;Q;1233.biryani;queue=highpriorityq
+08/26/2019 17:20:03;Q;1234.biryani;queue=routeq
+08/26/2019 17:20:03;Q;1234.biryani;queue=highpriorityq
+08/26/2019 17:21:40;D;1224.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:40;D;1225.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:41;D;1226.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:41;D;1227.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:56;D;1220.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:56;D;1221.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:57;D;1233.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:21:57;D;1234.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:22:32;Q;1235.biryani;queue=routeq
+08/26/2019 17:22:32;Q;1235.biryani;queue=highpriorityq
+08/26/2019 17:25:19;Q;1236.biryani;queue=routeq
+08/26/2019 17:25:19;Q;1236.biryani;queue=highpriorityq
+08/26/2019 17:25:35;D;1235.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:25:39;D;1236.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:25:44;Q;1237.biryani;queue=routeq
+08/26/2019 17:25:44;Q;1237.biryani;queue=highpriorityq
+08/26/2019 17:29:14;D;52.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;53.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;54.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;S;1237.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566811544 qtime=1566811544 etime=1566811544 start=1566811784 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:29:44;D;55.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;56.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;57.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;58.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;59.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;60.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;61.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;62.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;63.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;64.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;65.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;66.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;67.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;68.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;69.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;70.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;71.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;72.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;73.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;74.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;75.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;76.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;77.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;78.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;79.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;80.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;81.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:44;D;82.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;83.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;84.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;85.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;86.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;87.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;88.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;89.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;90.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;91.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;92.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;93.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:29:45;D;94.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1080.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1081.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1082.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1083.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1084.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1085.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1086.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1087.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1088.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:20;D;1089.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1090.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1091.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1092.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1093.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1094.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1095.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1096.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1097.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1098.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1099.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:21;D;1100.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:25;D;1237.biryani;requestor=mbithi@bakkutteh-admin
+08/26/2019 17:30:30;Q;1238.biryani;queue=routeq
+08/26/2019 17:30:30;Q;1238.biryani;queue=highpriorityq
+08/26/2019 17:30:30;S;1238.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566811830 qtime=1566811830 etime=1566811830 start=1566811830 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:30:52;Q;1239.biryani;queue=routeq
+08/26/2019 17:30:52;Q;1239.biryani;queue=highpriorityq
+08/26/2019 17:30:52;S;1239.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566811852 qtime=1566811852 etime=1566811852 start=1566811852 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:33:40;E;1238.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566811830 qtime=1566811830 etime=1566811830 start=1566811830 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=38656 end=1566812020 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:01 run_count=1
+08/26/2019 17:33:47;Q;1240.biryani;queue=routeq
+08/26/2019 17:33:47;Q;1240.biryani;queue=highpriorityq
+08/26/2019 17:33:47;S;1240.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812027 qtime=1566812027 etime=1566812027 start=1566812027 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:34:01;E;1239.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566811852 qtime=1566811852 etime=1566811852 start=1566811852 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=38753 end=1566812041 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+08/26/2019 17:36:15;Q;1241.biryani;queue=routeq
+08/26/2019 17:36:15;Q;1241.biryani;queue=highpriorityq
+08/26/2019 17:36:15;S;1241.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812175 qtime=1566812175 etime=1566812175 start=1566812175 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:36:56;E;1240.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812027 qtime=1566812027 etime=1566812027 start=1566812027 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=39162 end=1566812216 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+08/26/2019 17:39:24;E;1241.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812175 qtime=1566812175 etime=1566812175 start=1566812175 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=39509 end=1566812364 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+08/26/2019 17:42:00;Q;1242.biryani;queue=routeq
+08/26/2019 17:42:00;Q;1242.biryani;queue=highpriorityq
+08/26/2019 17:42:00;S;1242.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812520 qtime=1566812520 etime=1566812520 start=1566812520 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:42:38;Q;1243.biryani;queue=routeq
+08/26/2019 17:42:38;Q;1243.biryani;queue=highpriorityq
+08/26/2019 17:42:38;S;1243.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812558 qtime=1566812558 etime=1566812558 start=1566812558 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:42:50;Q;1244.biryani;queue=routeq
+08/26/2019 17:42:50;Q;1244.biryani;queue=highpriorityq
+08/26/2019 17:42:50;S;1244.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812570 qtime=1566812570 etime=1566812570 start=1566812570 exec_host=bakkutteh-admin/3 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 resource_assigned.ncpus=1 
+08/26/2019 17:43:35;E;1242.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812520 qtime=1566812520 etime=1566812520 start=1566812520 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=40170 end=1566812615 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:01 run_count=1
+08/26/2019 17:45:47;E;1243.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812558 qtime=1566812558 etime=1566812558 start=1566812558 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=40299 end=1566812747 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:01 run_count=1
+08/26/2019 17:45:59;E;1244.biryani;user=mbithi group=hiraiwa project=_pbs_project_default jobname=test queue=highpriorityq ctime=1566812570 qtime=1566812570 etime=1566812570 start=1566812570 exec_host=bakkutteh-admin/3 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:01:00 session=40375 end=1566812759 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1

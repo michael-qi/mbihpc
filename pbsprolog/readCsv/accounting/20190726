@@ -1,0 +1,28 @@
+07/26/2019 12:13:05;D;49.biryani;requestor=pbsadmin@biryani.mbi.nus.edu.sg
+07/26/2019 12:18:12;Q;51.biryani;queue=routeq
+07/26/2019 12:18:12;Q;51.biryani;queue=lowpriorityq
+07/26/2019 12:32:31;Q;52.biryani;queue=routeq
+07/26/2019 12:32:31;Q;52.biryani;queue=highpriorityq
+07/26/2019 12:32:31;S;52.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564115551 qtime=1564115551 etime=1564115551 start=1564115551 exec_host=bakkutteh-admin/1 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 12:32:31;Q;53.biryani;queue=routeq
+07/26/2019 12:32:31;Q;53.biryani;queue=highpriorityq
+07/26/2019 12:32:31;Q;54.biryani;queue=routeq
+07/26/2019 12:32:31;Q;54.biryani;queue=highpriorityq
+07/26/2019 12:32:31;S;53.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564115551 qtime=1564115551 etime=1564115551 start=1564115551 exec_host=bakkutteh-admin/2 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 12:32:32;Q;55.biryani;queue=routeq
+07/26/2019 12:32:32;Q;55.biryani;queue=highpriorityq
+07/26/2019 12:32:32;S;54.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564115551 qtime=1564115551 etime=1564115551 start=1564115552 exec_host=bakkutteh-admin/3 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 12:32:32;S;55.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564115552 qtime=1564115552 etime=1564115552 start=1564115552 exec_host=bakkutteh-admin/4 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 12:35:54;D;51.biryani;requestor=mbiks@biryani.mbi.nus.edu.sg
+07/26/2019 13:28:48;Q;56.biryani;queue=routeq
+07/26/2019 13:28:48;Q;56.biryani;queue=highpriorityq
+07/26/2019 13:28:48;S;56.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564118928 qtime=1564118928 etime=1564118928 start=1564118928 exec_host=bakkutteh-admin/0 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 13:28:48;Q;57.biryani;queue=routeq
+07/26/2019 13:28:48;Q;57.biryani;queue=highpriorityq
+07/26/2019 13:28:48;S;57.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564118928 qtime=1564118928 etime=1564118928 start=1564118928 exec_host=bakkutteh-admin/5 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 13:28:48;Q;58.biryani;queue=routeq
+07/26/2019 13:28:48;Q;58.biryani;queue=highpriorityq
+07/26/2019 13:28:48;S;58.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564118928 qtime=1564118928 etime=1564118928 start=1564118928 exec_host=bakkutteh-admin/6 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 
+07/26/2019 13:28:48;Q;59.biryani;queue=routeq
+07/26/2019 13:28:48;Q;59.biryani;queue=highpriorityq
+07/26/2019 13:28:48;S;59.biryani;user=mbithi group=-default- project=_pbs_project_default jobname=script queue=highpriorityq ctime=1564118928 qtime=1564118928 etime=1564118928 start=1564118928 exec_host=bakkutteh-admin/7 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=00:05:00 resource_assigned.ncpus=1 

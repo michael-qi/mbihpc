@@ -1,0 +1,23 @@
+12/13/2019 16:20:25;D;6677.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:20:37;D;6678.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:20:41;D;6679.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:20:46;D;6680.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:20:51;D;6681.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:21:00;D;6682.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:21:08;D;6683.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 16:21:11;D;6684.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 09:36:52;Q;6685.biryani.mbi.nus.edu.sg;queue=routeq
+12/13/2019 09:36:52;Q;6685.biryani.mbi.nus.edu.sg;queue=highpriorityq
+12/13/2019 09:36:52;S;6685.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=highpriorityq ctime=1576229812 qtime=1576229812 etime=1576229812 start=1576229812 exec_host=snowcone/0 exec_vnode=(snowcone:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 resource_assigned.ncpus=1 
+12/13/2019 10:11:56;D;6685.biryani.mbi.nus.edu.sg;requestor=root@biryani.mbi.nus.edu.sg
+12/13/2019 10:13:02;Q;6686.biryani.mbi.nus.edu.sg;queue=routeq
+12/13/2019 10:13:02;Q;6686.biryani.mbi.nus.edu.sg;queue=highpriorityq
+12/13/2019 10:13:02;S;6686.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=highpriorityq ctime=1576231982 qtime=1576231982 etime=1576231982 start=1576231982 exec_host=snowcone/0 exec_vnode=(snowcone:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 resource_assigned.ncpus=1 
+12/13/2019 10:13:02;E;6686.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=highpriorityq ctime=1576231982 qtime=1576231982 etime=1576231982 start=1576231982 exec_host=snowcone/0 exec_vnode=(snowcone:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 session=27321 end=1576231982 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+12/13/2019 10:32:27;Q;6688.biryani.mbi.nus.edu.sg;queue=testing
+12/13/2019 10:32:27;S;6688.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=testing ctime=1576233147 qtime=1576233147 etime=1576233147 start=1576233147 exec_host=snowcone/0 exec_vnode=(snowcone:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 resource_assigned.ncpus=1 
+12/13/2019 10:32:27;E;6688.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=testing ctime=1576233147 qtime=1576233147 etime=1576233147 start=1576233147 exec_host=snowcone/0 exec_vnode=(snowcone:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 session=29156 end=1576233147 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1
+12/13/2019 10:33:22;Q;6689.biryani.mbi.nus.edu.sg;queue=routeq
+12/13/2019 10:33:22;Q;6689.biryani.mbi.nus.edu.sg;queue=highpriorityq
+12/13/2019 10:33:22;S;6689.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=highpriorityq ctime=1576233202 qtime=1576233202 etime=1576233202 start=1576233202 exec_host=bakkutteh/0 exec_vnode=(bakkutteh:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 resource_assigned.ncpus=1 
+12/13/2019 10:33:23;E;6689.biryani.mbi.nus.edu.sg;user=aldavis group=qubits project=_pbs_project_default jobname=shortjob.sh queue=highpriorityq ctime=1576233202 qtime=1576233202 etime=1576233202 start=1576233202 exec_host=bakkutteh/0 exec_vnode=(bakkutteh:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=01:00:00 session=52003 end=1576233203 Exit_status=0 resources_used.cpupercent=0 resources_used.cput=00:00:00 resources_used.mem=0kb resources_used.ncpus=1 resources_used.vmem=0kb resources_used.walltime=00:00:00 run_count=1

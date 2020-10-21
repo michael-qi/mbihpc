@@ -1,0 +1,23 @@
+12/10/2019 16:23:56;Q;6674.biryani;queue=workq
+12/10/2019 16:23:56;S;6674.biryani;user=mbikyaw group=pbsdata project=_pbs_project_default jobname=job_script.sh queue=workq ctime=1575966236 qtime=1575966236 etime=1575966236 start=1575966236 exec_host=bakkutteh-admin/14 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=06:00:00 resource_assigned.ncpus=1 
+12/10/2019 16:24:32;Q;6675.biryani;queue=workq
+12/10/2019 16:24:32;S;6675.biryani;user=mbikyaw group=pbsdata project=_pbs_project_default jobname=job_script.sh queue=workq ctime=1575966272 qtime=1575966272 etime=1575966272 start=1575966272 exec_host=bakkutteh-admin/15 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=06:00:00 resource_assigned.ncpus=1 
+12/10/2019 16:24:49;Q;6676.biryani;queue=workq
+12/10/2019 16:24:49;S;6676.biryani;user=mbikyaw group=pbsdata project=_pbs_project_default jobname=job_script.sh queue=workq ctime=1575966289 qtime=1575966289 etime=1575966289 start=1575966289 exec_host=bakkutteh-admin/16 exec_vnode=(bakkutteh-admin:ncpus=1) Resource_List.ncpus=1 Resource_List.nodect=1 Resource_List.place=pack Resource_List.select=1:ncpus=1 Resource_List.walltime=06:00:00 resource_assigned.ncpus=1 
+12/10/2019 18:44:14;D;6644.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:10;D;6645.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:20;D;6646.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:42;D;6648.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:47;D;6649.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:55;D;6650.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:46:59;D;6651.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:04;D;6652.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:14;D;6653.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:19;D;6654.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:25;D;6655.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:29;D;6656.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:36;D;6662.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:43;D;6674.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:48;D;6675.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:47:52;D;6676.biryani;requestor=root@biryani.mbi.nus.edu.sg
+12/10/2019 18:48:04;D;6642.biryani;requestor=root@biryani.mbi.nus.edu.sg
