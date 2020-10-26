@@ -1,20 +1,37 @@
 #!/bin/env /opt/anaconda3/bin/python3
 
+#####################################################
+# To collect the information about the users' usage 
+# of the cluster.
+# When PBSpro running, it will log all the information
+# of each job in its accounting folder. The job script
+# will parse these information and calculate the daily
+# usage of each user.
+# Author: Zhiguo Qi
+# Date: 2020-10-20
+#####################################################
 import sys
 import re
 from pprint import pprint
 
+# parse the log file and return the date about the job
 def getTime(dtime):
     tmp = re.split(r"\s+",dtime)[0]
     tmp2 = re.split(r"\/",tmp)
     return "{}-{}-{}".format(tmp2[2],tmp2[0],tmp2[1])
 
+# get the job state, the job state is instead by one
+# Capital work.
 def getState(state):
     pass
 
+# get the job No. And remove other information, only 
+# kept the number part.
 def getJobNo(job):
     return re.split(r"\.",job)[0]
 
+# get the resource usage of the job, and return a dictionary
+# 
 def getRes(resource):
     tmp = re.split(r"\s+",resource)
     iterNo = 0
@@ -63,7 +80,7 @@ def getRes(resource):
         "mem"   : mem
     }
 
-
+# this function is generating the resources comsumption of each user
 def getSummary(rDicts):
     cpus = 0.0
     gpus = 0.0
@@ -75,19 +92,24 @@ def getSummary(rDicts):
         cpus = 0.
         gpus = 0.
 
+# here print the result on the screen.
 def outputJobs(rDicts):
     for key in rDicts.keys():
         for item in rDicts[key]:
             print("{},{},{},{},{}".format(item['jobid'],item['user'],item['cpu_hrs'],item['gpu_hrs'],item['date']))
 
-print(sys.argv[1])
+
+# print(sys.argv[1])
+# filename is the account log file
 filename = sys.argv[1]
 
+# initial the resourse usage data dictionary
 resDicts = {}
 
+# read the log file
 with open(filename,"r") as fp:
-    Lines = fp.readlines()
-    for line in Lines:
+    Lines = fp.readlines() # read all the lines at once, Note: maybe the file could be closed here.
+    for line in Lines: # parse the log file line by line
         tmp = re.split(r";",line)
         if len(tmp) == 4:
             if tmp[1] == "E":
